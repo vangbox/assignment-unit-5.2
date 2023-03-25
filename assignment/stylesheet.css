@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+    background-image: url(record.png);
+    margin: 0%;
+}
+
+main{
+    background-color: gray;
+    padding: 1em;
+}
+
+header{
+    background-color: darkblue;
+    color:chartreuse;
+    text-align: center;
+}
